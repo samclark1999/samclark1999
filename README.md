@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samclark1999
 - 👀 I’m interested in ... Front End Web Development
-- 🌱 I’m currently learning ... MIT x Pro Full Stack with MERN
+- 🌱 Graduated with a Certificate in ... MIT x Pro Full Stack with MERN
 - 💞️ I’m looking to collaborate on ... Any new projects or job opportunities
 - 📫 How to reach me ... samclarkwork99@gmail.com or linkedin.com/in/samclark99
 
